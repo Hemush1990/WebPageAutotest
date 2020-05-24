@@ -13,8 +13,8 @@ It is an OOP autotest.
 
 -requirement.txt - common file for configurations 
 
--pytest.ini -  consist paramtrizing fixtures for this test 
+-pytest.ini -  consist of paramtrizing fixtures for this test 
 
--pages - consist 1 basic file BasePage and 1 MainPage 
+-pages - consist of 1 basic file BasePage and 1 MainPage 
 
 -data - consist the all kind of locators, especially for this project we have selected xpath
